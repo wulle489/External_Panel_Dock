@@ -5,7 +5,7 @@ from qgis.PyQt.QtWidgets import (
     QMainWindow, QDockWidget, QDialog, QVBoxLayout, QLabel,
     QListWidget, QListWidgetItem, QDialogButtonBox, QWidget,
     QPushButton, QMessageBox, QComboBox, QToolBar, QTabWidget,
-    QApplication, QDialog, QCheckBox, QHBoxLayout,
+    QApplication, QCheckBox, QHBoxLayout,
 )
 
 
