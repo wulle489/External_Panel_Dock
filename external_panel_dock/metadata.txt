@@ -1,0 +1,15 @@
+[general]
+name=External Panel Dock
+qgisMinimumVersion=4.0
+qgisMaximumVersion=4.99
+description=Organize QGIS panels, dockable attribute tables and feature forms in an independent, resizable window for multi-monitor workflows.
+about=External Panel Dock creates a separate window that groups QGIS dock panels, plugin panels, dockable attribute tables and supported dock panels. Automatically collect newly opened native attribute-table docks, or arrange existing panels as tabs, side by side or vertically, change their order and move the entire workspace to another monitor. The window provides standard minimize/maximize controls and a Return all command to restore the original windows. Open or floating panels are collected using a selection dialog with separate categories and Select all / Deselect all actions. Standalone QGIS attribute dialogs are excluded for stability; dock them using the QGIS dock control first. 
+version=0.8.0
+author=Morten Wulff Ingvorsen
+email=wulle489@gmail.com
+repository=https://github.com/wulle489/External_Panel_Dock
+tracker=https://github.com/wulle489/External_Panel_Dock/issues
+homepage=https://github.com/wulle489/External_Panel_Dock
+tags=dock,panel,attribute table,forms,multimonitor,window,layout
+category=Plugins
+icon=icon.svg
